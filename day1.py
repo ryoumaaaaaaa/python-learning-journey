@@ -1,0 +1,10 @@
+nama = input ("NAMA : ")
+umur = input ("UMUR : ")
+sekolah = input ("SEKOLAH : ")
+hobi = input ("HOBI : ")
+
+print ("\n====BIODATA====")
+print (f"NAMA : {nama}")
+print (f"UMUR : {umur}")
+print (f"SEKOLAH : {sekolah}")
+print (f"hobi : {hobi}")
